@@ -1,0 +1,17 @@
+{
+    "name": "imfelldoublepicasc-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Igino Marini"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/imfelldoublepicasc-bower.git"
+    },
+    "description": "IM Fell Double Pica SC font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
